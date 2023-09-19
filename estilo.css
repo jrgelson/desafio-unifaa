@@ -1,0 +1,38 @@
+
+h2 {
+    padding: 3rem 0;
+    color: #47006B;
+}
+
+.botao{
+    padding: 2.5rem;
+    margin: 1rem;
+    background-color:#47006B;
+    color: white;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 1.6rem 0;
+    min-width: 300px;
+    min-height: 150px;
+}
+.botao:hover{
+    background-color:#7A00B8;
+}
+
+.body{
+    width: 0 auto;
+}
+
+.footer{
+    background-color: #9B00EB;
+    color: #FFF;
+    width: 100%;
+    text-align: center;
+    padding: .6rem;
+    position: fixed;
+    bottom: 0;
+}
